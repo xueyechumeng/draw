@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:57:17.895Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="o9iUfE4Ost2C6RJvyBj8" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T06:44:17.362Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="ROaHK13SAvgTOdgMCwBj" version="16.6.7" type="github">
   <diagram id="Qgnuw25uqioXZFq5rvxA" name="Page-1">
-    <mxGraphModel dx="1422" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,341 @@
         </mxCell>
         <mxCell id="G3ch0nkKt2q-JakGSZPW-14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;进入管理员vi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="490" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="140" as="sourcePoint" />
+            <mxPoint x="800" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;更改各个参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="240" as="sourcePoint" />
+            <mxPoint x="800" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-19" target="G3ch0nkKt2q-JakGSZPW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="325" />
+              <mxPoint x="670" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-19" value="是否修改" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="720" y="300" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-20" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-21" value="&lt;font style=&quot;font-size: 20px&quot;&gt;进入管理员界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="100" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.5" y="350" as="sourcePoint" />
+            <mxPoint x="799.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-23" value="&lt;font style=&quot;font-size: 20px&quot;&gt;显示登录成功&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-24" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.5" y="430" as="sourcePoint" />
+            <mxPoint x="799.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;进入管理员vi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="490" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-27" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="800" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-41" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="820" as="sourcePoint" />
+            <mxPoint x="359" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-42" value="&lt;font style=&quot;font-size: 20px&quot;&gt;显示菜品&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="880" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-43" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="920" as="sourcePoint" />
+            <mxPoint x="360" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-47" value="&lt;span style=&quot;font-size: 20px&quot;&gt;主菜单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="780" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-53" value="&lt;font style=&quot;font-size: 20px&quot;&gt;选择菜品&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="980" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1080" as="sourcePoint" />
+            <mxPoint x="300" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-56" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1080" as="sourcePoint" />
+            <mxPoint x="360" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-57" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1080" as="sourcePoint" />
+            <mxPoint x="360" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-59" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1080" as="sourcePoint" />
+            <mxPoint x="420" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1080" as="sourcePoint" />
+            <mxPoint x="420" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-61" value="&lt;font style=&quot;font-size: 20px&quot;&gt;显示订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-62" value="&lt;font style=&quot;font-size: 20px&quot;&gt;显示总额&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-63" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794" y="810" as="sourcePoint" />
+            <mxPoint x="794" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-64" value="&lt;span style=&quot;font-size: 20px&quot;&gt;选完菜品&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="870" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-65" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="910" as="sourcePoint" />
+            <mxPoint x="795" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-66" value="&lt;span style=&quot;font-size: 20px&quot;&gt;主菜单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="770" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-71" target="G3ch0nkKt2q-JakGSZPW-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="995" />
+              <mxPoint x="690" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-71" value="是否确定" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="970" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-72" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="680" y="930" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-74" value="&lt;font style=&quot;font-size: 20px&quot;&gt;点击下单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1080" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="1120" as="sourcePoint" />
+            <mxPoint x="800" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-76" value="&lt;span style=&quot;font-size: 20px&quot;&gt;一次消费结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-78" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.5" y="1020" as="sourcePoint" />
+            <mxPoint x="799.5" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-79" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1030" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-89" value="登录界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1570" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-90" target="G3ch0nkKt2q-JakGSZPW-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-90" value="注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1600" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1645" />
+              <mxPoint x="190" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-91" value="登录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1630" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-92" value="用户名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1660" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-93" value="密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-94" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-95" value="用户修改" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1830" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-96" value="账号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1860" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-97" value="旧密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1890" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-98" value="新密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1920" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="2090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1965" />
+              <mxPoint x="430" y="2090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-99" value="再次输入密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1950" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-100" value="立即修改" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1980" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-101" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1600" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-102" value="账号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1630" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-103" value="密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1660" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-104" value="注册码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-105" value="立即注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-108" target="G3ch0nkKt2q-JakGSZPW-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-108" value="密码正确" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1430" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-110" value="进&lt;br&gt;入&lt;br&gt;下&lt;br&gt;一&lt;br&gt;程&lt;br&gt;序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1580" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-112" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1734.5" as="sourcePoint" />
+            <mxPoint x="730" y="1734.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-114" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1840.5" as="sourcePoint" />
+            <mxPoint x="500" y="1840" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-115" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1740" as="sourcePoint" />
+            <mxPoint x="450" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-116" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.5" y="1810" as="sourcePoint" />
+            <mxPoint x="449.5" y="1740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-117" target="G3ch0nkKt2q-JakGSZPW-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="G3ch0nkKt2q-JakGSZPW-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="2085" />
+              <mxPoint x="710" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-117" value="两次一致" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="485" y="2060" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-119" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2025" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-123" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1520" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-124" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;fontSize=20;rotation=90;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-125" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;fontSize=20;rotation=-90;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-126" value="正确&amp;nbsp; 进入下一流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-127" value="不正确&amp;nbsp; 显示错误" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-128" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;fontSize=20;rotation=90;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-129" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;fontSize=20;rotation=-90;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G3ch0nkKt2q-JakGSZPW-131" value="一致&amp;nbsp; &amp;nbsp;立即注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="805" y="1980" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
